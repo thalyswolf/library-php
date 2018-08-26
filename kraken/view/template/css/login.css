@@ -1,0 +1,11 @@
+.background{
+  background: url(../../imagens/kraken.jpg);
+}
+#login{
+  padding: 20px;
+  border-radius: 10px;
+  background: #fff;
+  margin-top:20%;
+  margin-left: auto;
+  margin-right: auto;
+}

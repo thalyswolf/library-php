@@ -1,0 +1,22 @@
+html, body{
+  overflow: auto;
+  overflow-x: hidden;
+}
+body{
+  /*background: linear-gradient(rgb(50,205,50), rgb(189,83,107));*/
+  background: linear-gradient(#696969,#696969,#808080,#A9A9A9,#D3D3D3);
+  background-attachment: fixed;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+#login{
+  background: rgba(255,255,255,0.4);
+  margin: auto;
+  margin-top: 250px;
+  padding: 30px;
+}
+.painel{
+  margin-top: 80px;
+  background: white;
+  padding: 20px;
+}

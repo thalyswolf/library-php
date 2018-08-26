@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/pt/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/pt/blog/feed.xml</link>
+    <description></description>
+    <language>pt-br</language>
+     <atom:link href="https://www.prestashop.com/pt/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Volta às aulas, Black Friday, Natal: Baixe seu guia de e-commerce de fim de ano</title>
+    <link>https://www.prestashop.com/pt/blog/actualidad-prestashop/volta-as-aulas-black-friday-natal-baixe-seu-guia-de-e-commerce-de-fim-de-ano-1</link>
+    <description>A volta às aulas, a Black Friday, o Natal: em apenas alguns meses temos a maior parte do faturamento da atividade de e-commerce.
+E o desafio começa... agora mesmo!</description>
+     <pubDate>Mon, 17 Jul 2017 14:29:17 +0200</pubDate>
+ <dc:creator>Cécile Dubouis</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pt/blog/actualidad-prestashop/volta-as-aulas-black-friday-natal-baixe-seu-guia-de-e-commerce-de-fim-de-ano-1</guid>
+  </item>
+  <item>
+    <title>Planejamento e dicas para criar promoções eficazes no PrestaShop</title>
+    <link>https://www.prestashop.com/pt/blog/consejos-e-commerce/planejamento-e-dicas-para-criar-promocoes-eficazes-no-prestashop</link>
+    <description>Verão, volta às aulas, Black Friday, Natal... As promoções de fim de ano são fundamentais no e-commerce, mas sua preparação pode ser demorada.</description>
+     <pubDate>Mon, 19 Jun 2017 11:19:50 +0200</pubDate>
+ <dc:creator>Cécile Dubouis</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pt/blog/consejos-e-commerce/planejamento-e-dicas-para-criar-promocoes-eficazes-no-prestashop</guid>
+  </item>
+  <item>
+    <title>9 módulos para aumentar rapidamente o tráfego de sua loja</title>
+    <link>https://www.prestashop.com/pt/blog/uncategorized/9-modulos-para-aumentar-rapidamente-o-trafego-de-sua-loja</link>
+    <description>Por mais bem-sucedida que seja a sua loja, se não houver visitantes, não haverá clientes. Felizmente, é possível aumentar seu tráfego sem dedicar seus dias a esta árdua tarefa!</description>
+     <pubDate>Mon, 12 Jun 2017 11:21:06 +0200</pubDate>
+ <dc:creator>Cécile Dubouis</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pt/blog/uncategorized/9-modulos-para-aumentar-rapidamente-o-trafego-de-sua-loja</guid>
+  </item>
+  <item>
+    <title>Como criar um marketplace com o PrestaShop</title>
+    <link>https://www.prestashop.com/pt/blog/uncategorized/como-criar-um-marketplace-com-o-prestashop</link>
+    <description>Verdadeiramente na moda, criar um marketplace está agora ao alcance de todos.</description>
+     <pubDate>Fri, 09 Jun 2017 13:31:50 +0200</pubDate>
+ <dc:creator>Cécile Dubouis</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pt/blog/uncategorized/como-criar-um-marketplace-com-o-prestashop</guid>
+  </item>
+  <item>
+    <title>A PrestaShop 1.7.1.0 encontra-se disponível</title>
+    <link>https://www.prestashop.com/pt/blog/prestashop-1-7-1-0-encontra-se-disponivel-otimizacoes-desempenho-recursos-foco-nas-novidades</link>
+    <description>otimizações, desempenho, recursos... Foco nas novidades</description>
+     <pubDate>Mon, 03 Apr 2017 13:08:45 +0200</pubDate>
+ <dc:creator>xavier borderie</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pt/blog/prestashop-1-7-1-0-encontra-se-disponivel-otimizacoes-desempenho-recursos-foco-nas-novidades</guid>
+  </item>
+  <item>
+    <title>4 formas de usar os cupons de desconto para alcançar seus objetivos </title>
+    <link>https://www.prestashop.com/pt/blog/4-formas-de-usar-os-cupons-de-desconto-para-alcancar-seus-objetivos</link>
+    <description>Apesar de ter se tornado uma ação de marketing banal, o uso de cupons de desconto no e-commerce pode ser muito eficaz se explorado corretamente. </description>
+     <pubDate>Tue, 14 Mar 2017 01:00:10 +0100</pubDate>
+ <dc:creator>mvalenza</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pt/blog/4-formas-de-usar-os-cupons-de-desconto-para-alcancar-seus-objetivos</guid>
+  </item>
+  <item>
+    <title>5 conselhos para ter sucesso na reformulação gráfica de seu site de E-commerce</title>
+    <link>https://www.prestashop.com/pt/blog/5-conselhos-para-ter-sucesso-na-reformulacao-grafica-de-seu-site-de-e-commerce</link>
+    <description>Sua loja online está lançada há vários meses, e as vendas estão aumentando, mas quer deseja uma rapidez maior ainda?</description>
+     <pubDate>Thu, 02 Mar 2017 01:00:20 +0100</pubDate>
+ <dc:creator>mvalenza</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pt/blog/5-conselhos-para-ter-sucesso-na-reformulacao-grafica-de-seu-site-de-e-commerce</guid>
+  </item>
+  <item>
+    <title>Meet Deyson, Ambassador of the month | fevereiro 2017</title>
+    <link>https://www.prestashop.com/pt/blog/meet-deyson-ambassador-month-fevereiro-2017</link>
+    <description>Deyson Thomé, Embaixador em Rio de Janeiro.</description>
+     <pubDate>Tue, 28 Feb 2017 09:56:36 +0100</pubDate>
+ <dc:creator>floreravaud</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pt/blog/meet-deyson-ambassador-month-fevereiro-2017</guid>
+  </item>
+  <item>
+    <title>Como melhorar os desempenhos de suas campanhas por e-mail graças a um banco eficiente de clientes em potencial! </title>
+    <link>https://www.prestashop.com/pt/blog/como-melhorar-os-desempenhos-de-suas-campanhas-por-e-mail-gracas-um-banco-eficiente-de-clientes-em-potencial</link>
+    <description>Enviar e-mails com maior frequência e para o maior número de clientes! Um reflexo ainda enraizado e que, no entanto, reduz a taxa de abertura e as taxas de cliques! </description>
+     <pubDate>Thu, 16 Feb 2017 01:00:03 +0100</pubDate>
+ <dc:creator>mvalenza</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pt/blog/como-melhorar-os-desempenhos-de-suas-campanhas-por-e-mail-gracas-um-banco-eficiente-de-clientes-em-potencial</guid>
+  </item>
+  <item>
+    <title>Como impulsionar o tráfego de seu site de E-commerce graças ao conteúdo </title>
+    <link>https://www.prestashop.com/pt/blog/como-impulsionar-o-trafego-de-seu-site-de-e-commerce-gracas-ao-conteudo</link>
+    <description>Postagens de blog, publicações nas redes sociais, newsletters... Tantos meios para chegar ao seu público-alvo e incitá-los a visitar sua loja online.</description>
+     <pubDate>Wed, 15 Feb 2017 10:41:58 +0100</pubDate>
+ <dc:creator>mvalenza</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pt/blog/como-impulsionar-o-trafego-de-seu-site-de-e-commerce-gracas-ao-conteudo</guid>
+  </item>
+  </channel>
+</rss>

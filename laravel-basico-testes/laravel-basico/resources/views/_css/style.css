@@ -1,0 +1,8 @@
+.menu-vertical{
+  background: black;
+  color: white;
+}
+
+.menu-vertical-txt:hover{
+  color: gray;
+}

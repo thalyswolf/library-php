@@ -1,0 +1,13 @@
+{
+    "name": "thalys/user",
+    "description": "Teste composer",
+    "authors": [
+        {
+            "name": "thalyswolf",
+            "email": "thalyswolf@hotmail.com"
+        }
+    ],
+    "require": {
+      "monolog/monolog":"1.0.*"
+    }
+}
